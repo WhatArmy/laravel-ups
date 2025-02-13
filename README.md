@@ -52,8 +52,8 @@ Please review [my security policy](.github/SECURITY.md) on how to report securit
 
 ## Credits
 
--   [Randall Wilk](https://github.com/rawilk)
--   [All Contributors](../../contributors)
+- [Randall Wilk](https://github.com/rawilk)
+- [All Contributors](../../contributors)
 
 ## Disclaimer
 
